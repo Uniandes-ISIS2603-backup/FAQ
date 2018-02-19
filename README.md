@@ -1,5 +1,5 @@
 # FAQ
-Preguntas Frecuentes Proyectos de Desarrollo ISIS2603
+Preguntas/Errores Frecuentes Proyectos de Desarrollo ISIS2603
 
 
 * [Errores API REST](../../wiki/Errores_API_REST)
